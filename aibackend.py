@@ -1,3 +1,5 @@
+__author__ = 'liyane'
+
 import os
 from openai import OpenAI
 
